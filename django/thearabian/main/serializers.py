@@ -18,5 +18,4 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class CountrySerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = country
-        fields = ['name', 'title', 'flag', 'anthem', 'name_ar', 'title_ar', 'capital', 'population',
-                  'continent', 'area', 'religion', 'capital_ar', 'continent_ar', 'religion_ar', 'location',]
+        fields = ['name', 'title']
