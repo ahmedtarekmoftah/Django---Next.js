@@ -74,22 +74,22 @@ WSGI_APPLICATION = 'thearabian.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-#DATABASES = {
-   # 'default': {
-  #      'ENGINE': 'django.db.backends.mysql',
- #       'OPTIONS':{
-#		'read_default_file':'/tutorial/auth/mysql.cnf',
-#},
- #   }
-#}
+# DATABASES = {
+# 'default': {
+#      'ENGINE': 'django.db.backends.mysql',
+#       'OPTIONS':{
+# 'read_default_file':'/tutorial/auth/mysql.cnf',
+# },
+#   }
+# }
 
 DATABASES = {
- 'default': {
- 'ENGINE': 'django.db.backends.mysql',
- 'OPTIONS': {
- 'read_default_file': '/the-arabian/auth/mysql.cnf',
- },
- }
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'OPTIONS': {
+            'read_default_file': '/the-arabian/auth/mysql.cnf',
+        },
+    }
 }
 
 
@@ -111,6 +111,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
