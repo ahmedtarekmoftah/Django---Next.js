@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.contrib.auth.models import User, Group
+from models import country
 from rest_framework import viewsets
 from rest_framework import permissions
 from .serializers import UserSerializer, GroupSerializer, CountrySerializer
@@ -18,6 +19,6 @@ class GroupViewSet(viewsets.ModelViewSet):
 
 
 class CountryViewSet(viewsets.ModelViewSet):
-    queryset = Group.objects.all()
+    queryset = country.objects.all()
     serializer_class = CountrySerializer
     permission_classes = [permissions.IsAuthenticated]
