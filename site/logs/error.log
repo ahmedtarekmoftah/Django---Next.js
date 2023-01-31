@@ -1,0 +1,81 @@
+[Mon Jan 30 19:09:07.236618 2023] [wsgi:error] [pid 1872:tid 140519837263616] [client 192.168.128.1:52713] No WSGI daemon process called 'thearabian' has been configured: /the-arabian/django/thearabian/thearabian/wsgi.py
+[Mon Jan 30 19:09:21.573841 2023] [wsgi:error] [pid 1872:tid 140519828870912] [client 192.168.128.1:52714] No WSGI daemon process called 'thearabian' has been configured: /the-arabian/django/thearabian/thearabian/wsgi.py
+[Mon Jan 30 19:09:22.104049 2023] [wsgi:error] [pid 1872:tid 140519820478208] [client 192.168.128.1:52715] No WSGI daemon process called 'thearabian' has been configured: /the-arabian/django/thearabian/thearabian/wsgi.py
+[Mon Jan 30 19:09:58.204553 2023] [wsgi:error] [pid 1872:tid 140519812085504] [client 192.168.128.1:52717] No WSGI daemon process called 'thearabian' has been configured: /the-arabian/django/thearabian/thearabian/wsgi.py
+[Mon Jan 30 17:10:04.988825 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52718] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:10:34.949494 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52719] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:10:35.584317 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52719] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:10:44.186860 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52724] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:10:49.379738 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52725] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:10:49.383174 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52726] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:10:49.391571 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52728] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:10:49.393159 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52727] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:10:49.393404 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52729] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:10:55.516051 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52730] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:19:49.968075 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52747] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:19:51.521050 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52747] Not Found: /static/admin/css/fonts.css
+[Mon Jan 30 17:19:56.646028 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52748] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:19:56.647702 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52750] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:19:56.655067 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52752] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:19:56.655947 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52751] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:19:56.657342 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52749] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:19:59.006850 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52749] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:19:59.010440 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52750] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:19:59.016657 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52751] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:19:59.016770 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52748] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:19:59.017118 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52752] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:00.209717 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52752] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:20:00.210733 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52751] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:00.219389 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52749] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:20:00.221008 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52748] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:20:00.221213 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52750] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:20:00.234857 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52750] Not Found: /favicon.ico
+[Mon Jan 30 17:20:00.990292 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52750] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:20:00.992761 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52748] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:20:00.999387 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52752] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:20:01.000307 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52749] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:01.003414 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52751] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:20:01.015029 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52751] Not Found: /favicon.ico
+[Mon Jan 30 17:20:01.332745 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52749] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:20:01.334723 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52751] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:20:01.337976 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52752] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:01.341115 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52750] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:20:01.342001 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52748] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:20:01.354408 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52748] Not Found: /favicon.ico
+[Mon Jan 30 17:20:01.522379 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52750] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:20:01.529407 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52752] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:01.532384 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52751] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:20:01.533281 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52748] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:20:01.533525 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52749] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:20:01.545174 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52749] Not Found: /favicon.ico
+[Mon Jan 30 17:20:01.683305 2023] [wsgi:error] [pid 1962:tid 139757171083008] [remote 192.168.128.1:52748] Not Found: /static/admin/css/nav_sidebar.css
+[Mon Jan 30 17:20:01.684043 2023] [wsgi:error] [pid 1962:tid 139757154281216] [remote 192.168.128.1:52749] Not Found: /static/admin/css/base.css
+[Mon Jan 30 17:20:01.690876 2023] [wsgi:error] [pid 1962:tid 139757179483904] [remote 192.168.128.1:52752] Not Found: /static/admin/css/responsive.css
+[Mon Jan 30 17:20:01.691692 2023] [wsgi:error] [pid 1962:tid 139757271844608] [remote 192.168.128.1:52750] Not Found: /static/admin/js/nav_sidebar.js
+[Mon Jan 30 17:20:01.694568 2023] [wsgi:error] [pid 1962:tid 139757187884800] [remote 192.168.128.1:52751] Not Found: /static/admin/css/dashboard.css
+[Mon Jan 30 17:20:01.706415 2023] [wsgi:error] [pid 1962:tid 139757162682112] [remote 192.168.128.1:52751] Not Found: /favicon.ico
+Exception ignored in: <bound method BaseEventLoop.__del__ of <_UnixSelectorEventLoop running=False closed=False debug=False>>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/base_events.py", line 526, in __del__
+NameError: name 'ResourceWarning' is not defined
+[Mon Jan 30 18:05:38.083271 2023] [wsgi:error] [pid 355:tid 140236987356928] [remote 172.28.32.1:51458] Invalid HTTP_HOST header: '172.28.38.112'. You may need to add '172.28.38.112' to ALLOWED_HOSTS.
+[Mon Jan 30 18:05:38.108562 2023] [wsgi:error] [pid 355:tid 140236987356928] [remote 172.28.32.1:51458] Bad Request: /
+[Mon Jan 30 18:05:38.242100 2023] [wsgi:error] [pid 355:tid 140236869785344] [remote 172.28.32.1:51461] Invalid HTTP_HOST header: '172.28.38.112'. You may need to add '172.28.38.112' to ALLOWED_HOSTS.
+[Mon Jan 30 18:05:38.260800 2023] [wsgi:error] [pid 355:tid 140236869785344] [remote 172.28.32.1:51461] Bad Request: /favicon.ico
+[Tue Jan 31 14:24:10.250615 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52702] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:24:10.277412 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52702] Bad Request: /
+[Tue Jan 31 14:24:10.409982 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52704] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:24:10.428392 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52704] Bad Request: /favicon.ico
+[Tue Jan 31 14:25:06.023929 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52712] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:25:06.042871 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52712] Bad Request: /
+[Tue Jan 31 14:25:06.096086 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52713] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:25:06.117259 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52713] Bad Request: /favicon.ico
+[Tue Jan 31 14:25:07.302821 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52714] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:25:07.322160 2023] [wsgi:error] [pid 394:tid 139995372807936] [remote 172.28.32.1:52714] Bad Request: /
+[Tue Jan 31 14:25:07.374261 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52715] Invalid HTTP_HOST header: '172.28.42.30'. You may need to add '172.28.42.30' to ALLOWED_HOSTS.
+[Tue Jan 31 14:25:07.392580 2023] [wsgi:error] [pid 394:tid 139995255236352] [remote 172.28.32.1:52715] Bad Request: /favicon.ico
+Exception ignored in: <bound method BaseEventLoop.__del__ of <_UnixSelectorEventLoop running=False closed=False debug=False>>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/base_events.py", line 526, in __del__
+NameError: name 'ResourceWarning' is not defined
+[Tue Jan 31 14:25:46.103371 2023] [wsgi:error] [pid 1341:tid 140006049003264] [remote 172.28.32.1:52722] Not Found: /favicon.ico

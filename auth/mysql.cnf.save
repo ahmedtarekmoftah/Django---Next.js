@@ -1,0 +1,14 @@
+[client]
+database='thearabian'
+user='ahmed'
+password='#Tamma24july2001#'
+default-character-set= 'utf8'
+[client]
+database = ‘thearabian’
+user = 'ahmed'
+password = 'client]
+database = ‘your-database’
+user = 'your-mysql-username'
+password = 'your-mysql-username-password'
+default-character-set = 'utf8'your-mysql-username-password'
+default-character-set = 'utf8'
