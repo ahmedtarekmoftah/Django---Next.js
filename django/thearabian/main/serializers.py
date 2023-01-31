@@ -1,4 +1,5 @@
 from django.contrib.auth.models import User, Group
+from .models import country
 from rest_framework import serializers
 
 
@@ -12,3 +13,10 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Group
         fields = ['url', 'name']
+
+
+class CountrySerializer(serializers.HyperlinkedModelSerializer):
+    class Meta:
+        model = country
+        fields = ['name', 'title', 'flag', 'anthem', 'name_ar', 'title_ar', 'capital', 'population',
+                  'continent', 'area', 'religion', 'capital_ar', 'continent_ar', 'religion_ar', 'location',]
