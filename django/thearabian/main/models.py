@@ -13,7 +13,6 @@ class country(models.Model):
     continent = models.CharField(max_length=64, default="Soon")
     area = models.CharField(max_length=64, default="Soon")
     religion = models.CharField(max_length=64, default="Soon")
-    logo = models.ImageField(upload_to="main/images", null=True)
     capital_ar = models.CharField(max_length=64, default="قريبا")
     continent_ar = models.CharField(max_length=64, default="قريبا")
     religion_ar = models.CharField(max_length=64, default="قريبا")
