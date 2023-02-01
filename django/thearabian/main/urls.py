@@ -3,9 +3,9 @@ from rest_framework import routers
 from . import views
 
 router = routers.DefaultRouter()
-router.register(r'users', views.UserViewSet)
-router.register(r'groups', views.GroupViewSet)
-router.register(r'country', views.CountryViewSet)
+router.register(r'users', views.UserViewSet.as_view())
+router.register(r'groups', views.GroupViewSet.as_view())
+router.register(r'country', views.CountryViewSet.as_view())
 
 
 # Wire up our API using automatic URL routing.
