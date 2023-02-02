@@ -74,14 +74,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'thearabian.wsgi.application'
 
-USE_X_FORWARDED_HOST = True
-SECURE_PROXY_SSL_HEADER = ('X-FORWARDED-PROTO', 'https')
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
 
-SECURE_CONTENT_TYPE_NOSNIFF = True
-SECURE_HSTS_INCLUDE_SUBDOMAINS = True
-SECURE_HSTS_PRELOAD = True
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
